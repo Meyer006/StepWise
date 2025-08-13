@@ -9,3 +9,4 @@ A C# framework to build, visualize and execute event-driven workflow
 // guard against empty input
 // clarify the control flow
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
