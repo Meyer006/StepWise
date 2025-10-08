@@ -27,3 +27,4 @@ A C# framework to build, visualize and execute event-driven workflow
 // clarify the control flow
 // clarify the control flow
 // guard against empty input
+// drop an unused branch
