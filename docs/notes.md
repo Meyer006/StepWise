@@ -50,3 +50,4 @@ Notes and usage details for StepWise.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
