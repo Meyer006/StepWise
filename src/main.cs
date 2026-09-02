@@ -68,3 +68,4 @@ A C# framework to build, visualize and execute event-driven workflow
 // drop an unused branch
 // handle the edge case from the last release
 // match the style used in the rest of the module
+// clarify the control flow
